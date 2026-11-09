@@ -1,3 +1,7 @@
-x=a+b
+#!/bin/bash
 
+# Addition
+x=a+b
+# Subtraction
+x=a-b
 
